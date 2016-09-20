@@ -1,5 +1,6 @@
 # hello-world
 github tutorial repository
-"Some edits"
-"More edits"
+# edit section
+new edit removes some text from previous 
+# P.S.
 "One more edit"
